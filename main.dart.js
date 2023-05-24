@@ -19574,7 +19574,7 @@ s.toString
 return s},
 ajV(a){return A.a7(a)},
 a79(a,b,c,d){var s=null
-return A.dI(s,s,B.p,s,s,new A.dZ(s,new A.B2(new A.qm("images/"+a),s,b),s,s,s,s,B.aw),s,c,s,s,s,s,d)},
+return A.dI(s,s,B.p,s,s,new A.dZ(s,new A.B2(new A.qm("assets/images/"+a),s,b),s,s,s,s,B.aw),s,c,s,s,s,s,d)},
 yX(a){var s=B.d.a6(u.N,a>>>6)+(a&63),r=s&1,q=B.d.a6(u.I,s>>>1)
 return q>>>4&-r|q&15&r-1},
 kD(a,b){var s=(a&1023)<<10|b&1023,r=B.d.a6(u.N,1024+(s>>>9))+(s&511),q=r&1,p=B.d.a6(u.I,r>>>1)
