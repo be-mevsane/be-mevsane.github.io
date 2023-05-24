@@ -36831,7 +36831,7 @@ r=(s-i)/2
 q=new A.bu(r,r,r,r)
 j=j.c
 p=t.nA
-o=A.uS(A.a([A.li(k,A.a79("baesthetics_only_thin.png",B.fD,s,j),B.a5,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.a3q(l),k,k,k,k,!1,B.b6)],p),B.CN,B.bq)
+o=A.uS(A.a([A.li(k,A.a79("baesthetics_only_thin_grad.png",B.fD,s,j),B.a5,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.a3q(l),k,k,k,k,!1,B.b6)],p),B.CN,B.bq)
 n=l.e
 n===$&&A.c()
 m=new A.cl(B.dI,1,B.a2,-1)
